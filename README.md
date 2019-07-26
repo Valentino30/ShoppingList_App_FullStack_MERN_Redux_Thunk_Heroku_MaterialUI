@@ -1,1 +1,0 @@
-# ShoppingList_App_FullStack_MERN_Redux_Thunk_Heroku_MaterialUI_Auth
